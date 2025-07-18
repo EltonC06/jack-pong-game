@@ -1,6 +1,6 @@
 # Pong para Dois Jogadores — Projeto ESC
 
-Este é um projeto de extensão do clássico jogo `Pong`, desenvolvido como parte da disciplina (Elemento de Sistemas de Computacionais) do curso de Sistemas de Informação da UFRPE baseado na plataforma `nand2tetris`. O objetivo foi adaptar o jogo para permitir dois jogadores humanos, com mecânicas de rebote, derrota e exibição de mensagens de "Game Over".
+Este é um projeto de extensão do clássico jogo `Pong`, desenvolvido como parte da disciplina (Elementos de Sistemas de Computacionais) do curso de Sistemas de Informação da UFRPE baseado na plataforma `nand2tetris`. O objetivo foi adaptar o jogo para permitir dois jogadores humanos, com mecânicas de rebote, derrota e exibição de mensagens de "Game Over".
 
 ---
 
